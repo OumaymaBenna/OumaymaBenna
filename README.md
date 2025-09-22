@@ -1,4 +1,4 @@
-![Banner](https://github.com/OumaymaBenna/OumaymaBenna/blob/main/img.png)
+![Banner](https://github.com/OumaymaBenna/OumaymaBenna/blob/main/unnamed%20(1).png)
 
 <h1 align="center">👋 Hello, I'm Oumayma Benna</h1>
 <h3 align="center">🚀 A passionate Web Development Student from Tunisia</h3>
