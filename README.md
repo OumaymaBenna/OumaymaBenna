@@ -19,7 +19,7 @@ I'm a passionate web development student with expertise in building modern web a
 
 - 🌱 I'm currently learning **Python & Advanced JavaScript**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 🥅 2024 Goals: **Contribute more to Open Source projects and learn Machine Learning basics**
+- 🥅 2026 Goals: **Contribute more to Open Source projects and learn Machine Learning basics**
 - ⚡ Fun fact: **I drink ☕ or 🍵 while coding and building new ideas**
 
 ## 🛠️ Skills & Technologies
